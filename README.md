@@ -2,7 +2,7 @@
 <html>
   <body>
     <h2>Python-Django Cloth Store Web Application.</h2>
-    <p>This is a simple web application which uses the Django framework to manage backend.As Django automatically provides a lightweiht server web development 
+    <p>This is a simple web application which uses the Django framework to manage backend.As Django automatically provides a lightweight server, web development 
     is now rapid and simple.</p><br>
     <h5>Note::For Windows users Only and the 'jeansapp' application in this website has been only made dynamic. admin can login and upload pictures and quantify price and other data by accessing 'localhost/admin'</h5>
     <h4>Tools and Technologies involved.</h4>
